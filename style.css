@@ -474,10 +474,19 @@ a{
 }
 #project2{
     margin-left: 120px;
-    background-image: url(./parallax.png);
+    /*background-image: url(./parallax.png);*/
+    background-image: url(./discordImg.png);
 }
 #project3{
-    background-image: url(./BMI.jpg);
+    background-image: url(./parallax.png);
+}
+#project4{
+    margin-left: 120px;
+    background-image: url(./WeatherImg.png);
+    
+}
+#project4 .project-content-right{
+    margin-left: 15rem;
 }
 
 /* skill section */
